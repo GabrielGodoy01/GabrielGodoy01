@@ -6,7 +6,7 @@
 <img align="center" alt="linkedin-profile" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://gabrielgodoy01.github.io/" target="_blank">
-<img align="center" alt="blog-pessoal" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" style="max-width:100%;">
+<img align="center" alt="blog-pessoal" height="30" width="40" src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" style="max-width:100%;">
 </a>
 
 <!--
