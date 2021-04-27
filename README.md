@@ -3,7 +3,7 @@
 - 🔭 Estou procurando oportunidades de trabalho/estágio em minha área
 - 🌱 Atualmente estudando Flutter, Javascript e SQL Server
 
-## Connect with me:
+## Me encontre também em:
 <a href="https://www.linkedin.com/in/gabrielgbraz/" target="_blank">
 <img align="center" alt="linkedin-profile" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
