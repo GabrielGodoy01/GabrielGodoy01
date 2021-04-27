@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gabrielgbraz/" target="_blank">
