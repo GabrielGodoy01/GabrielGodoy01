@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/gabrielgbraz/" target="_blank">
+<img align="center" alt="linkedin-profile" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+</a>
+<a href="https://gabrielgodoy01.github.io/" target="_blank">
+<img align="center" alt="blog-pessoal" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" style="max-width:100%;">
+</a>
+
 <!--
 **GabrielGodoy01/GabrielGodoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
