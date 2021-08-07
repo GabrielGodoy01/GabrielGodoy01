@@ -9,9 +9,7 @@
 
 ## Me encontre também em:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/gabrielgbraz/)
-<a href="https://gabrielgodoy01.github.io/" target="_blank">
-<img align="center" alt="blog-pessoal" height="30" width="40" src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" style="max-width:100%;">
-</a>
+[![Blog](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/gabrielgbraz/)
 
 <!--
 **GabrielGodoy01/GabrielGodoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
