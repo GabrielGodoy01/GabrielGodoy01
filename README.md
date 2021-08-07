@@ -3,6 +3,10 @@
 - 🔭 Estagiário em Desenvolvimento de Sistemas na Certisign
 - 🌱 Atualmente estudando Flutter, Javascript e SQL Server
 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGodoy01&show_icons=true&theme=dracula)
+
 ## Me encontre também em:
 <a href="https://www.linkedin.com/in/gabrielgbraz/" target="_blank">
 <img align="center" alt="linkedin-profile" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
