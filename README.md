@@ -9,7 +9,7 @@
 
 ## Me encontre também em:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/gabrielgbraz/)
-[![Blog](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=blog&logoColor=white)](https://www.https://www.linkedin.com/in/gabrielgbraz/)
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://gabrielgodoy01.github.io/)
 
 <!--
 **GabrielGodoy01/GabrielGodoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
