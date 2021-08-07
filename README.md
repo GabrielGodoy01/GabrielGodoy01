@@ -3,7 +3,7 @@
 - 🔭 Estagiário em Desenvolvimento de Sistemas na Certisign
 - 🌱 Atualmente estudando Flutter, Javascript e SQL Server
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorguerrini&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGodoy01&layout=compact&theme=dracula)
 
