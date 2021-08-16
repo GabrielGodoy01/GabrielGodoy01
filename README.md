@@ -1,4 +1,4 @@
-### Hi there 👋, sou o Gabriel faço Engenharia da Computação no Instituto Mauá de Tecnologia, atualmente no quarto ano.
+### Olá 👋, sou o Gabriel estudo Engenharia da Computação no Instituto Mauá de Tecnologia.
 
 - 🔭 Estagiário em Desenvolvimento de Sistemas na Certisign
 - 🌱 Atualmente estudando Flutter, Javascript e SQL Server
