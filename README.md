@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGodoy01&layout=compact&theme=dracula)
 
 ## Me encontre também em:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/gabrielgbraz/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgbraz/)
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://gabrielgodoy01.github.io/)
 
 ![Snake animation](https://github.com/GabrielGodoy01/GabrielGodoy01/blob/output/github-contribution-grid-snake.svg)
