@@ -3,9 +3,9 @@
 - 🔭 Estagiário em Desenvolvimento de Sistemas na Certisign
 - 🌱 Atualmente estudando Flutter, Javascript e SQL Server
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGodoy01&show_icons=true&langs_count=32&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGodoy01&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGodoy01&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGodoy01&layout=compact&langs_count=32&theme=dracula)
 
 ## Me encontre também em:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgbraz/)
