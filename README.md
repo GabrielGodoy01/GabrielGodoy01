@@ -1,4 +1,4 @@
-# Olá 👋, sou o Gabriel estudo Engenharia da Computação no Instituto Mauá de Tecnologia.
+# Olá sou o Gabriel 👋, desenvolvedor Front-End Web e Mobile.
 
 - 🔭 Estagiário em Desenvolvimento de Sistemas na Certisign
 - 🌱 Atualmente estudando Flutter, Javascript e SQL Server
