@@ -1,7 +1,8 @@
 # Olá sou o Gabriel 👋, desenvolvedor Front-End Web e Mobile.
 
-- 🔭 Estagiário em Desenvolvimento de Sistemas na Certisign
-- 🌱 Atualmente estudando Flutter, Javascript e SQL Server
+- 🔭 Auxiliar de Coordenação de Engenharia de Computação, Sistemas de Informação e Ciência da Computação no Instituto Mauá de Tecnologia (IMT)
+- 🌱 Atualmente estudando AWS Cloud Practioner, React e NodeJS
+- 💬 Me pergunte sobre: Frameworks Front-end, Clean Architecture, Micro front-ends, metodologias ágeis, boas práticas que eu posso ajudá-lo!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGodoy01&show_icons=true&theme=dracula)
 
