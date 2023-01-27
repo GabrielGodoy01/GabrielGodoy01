@@ -2,7 +2,7 @@
 
 - 🔭 Auxiliar de Coordenação de Engenharia de Computação, Sistemas de Informação e Ciência da Computação no Instituto Mauá de Tecnologia (IMT)
 - 🌱 Atualmente estudando AWS Cloud Practioner, React e NodeJS
-- 💬 Me pergunte sobre: Frameworks Front-end, Clean Architecture, Micro front-ends, metodologias ágeis, boas práticas que eu posso ajudá-lo!
+- 💬 Me pergunte sobre: Frameworks Front-end, Clean Architecture, Micro front-ends, metodologias ágeis, boas práticas que com certeza posso te ajudar!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGodoy01&show_icons=true&theme=dracula)
 
