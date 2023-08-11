@@ -5,6 +5,8 @@
 - 🌱 Currently studying AWS Cloud Practitioner, React, and NodeJS.
 - 💬 Ask me about: Front-end frameworks, Clean Architecture, Micro front-ends, agile methodologies, and best practices – I'm sure I can help you!
 
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGodoy01&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGodoy01&layout=compact&langs_count=32&theme=dracula)
