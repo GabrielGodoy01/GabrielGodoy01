@@ -1,7 +1,7 @@
 # 🚀 Computer Engineer | Full Stack Developer | Front-End Enthusiast 🎨
 
 - 💼 Assistant Coordinator for Computer Engineering, Information Systems, and Computer Science at the Mauá Institute of Technology (IMT) and Computer Engineer/Fullstack Developer at Intelicity.
-- 🛠️ Tech Stack: Dart (Flutter), Python, HTML5, CSS3, Clean Architecture, Scrum...
+- 🛠️ Tech Stack: Flutter, Python, Clean Architecture, Scrum...
 - 🌱 Currently studying AWS Cloud Practitioner, React, and NodeJS.
 - 💬 Ask me about: Front-end frameworks, Clean Architecture, Micro front-ends, agile methodologies, and best practices – I'm sure I can help you!
 
