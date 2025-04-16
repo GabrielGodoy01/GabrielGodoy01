@@ -1,4 +1,4 @@
-# 🚀 Computer Engineer | Solutions Architect | Software Developer | Master's Student at Poli-USP
+# Computer Engineer | Solutions Architect | Software Developer | Master's Student at Poli-USP
 
 - 💼 Assistant Coordinator for Computer Engineering, Information Systems, and Computer Science at the Mauá Institute of Technology (IMT) and Computer Engineer/Fullstack Developer at Intelicity.
 - 🛠️ Tech Stack: Flutter, Python, AWS, Clean Architecture, Scrum...
