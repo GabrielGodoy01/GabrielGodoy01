@@ -1,9 +1,9 @@
-# 🚀 Computer Engineer | Full Stack Developer
+# 🚀 Computer Engineer | Solutions Architect | Software Developer | Master's Student at Poli-USP
 
 - 💼 Assistant Coordinator for Computer Engineering, Information Systems, and Computer Science at the Mauá Institute of Technology (IMT) and Computer Engineer/Fullstack Developer at Intelicity.
 - 🛠️ Tech Stack: Flutter, Python, AWS, Clean Architecture, Scrum...
 - 🌱 Currently studying AWS Cloud, React, and NodeJS.
-- 💬 Ask me about: Front-end frameworks, Clean Architecture, Micro front-ends, agile methodologies, and best practices – I'm sure I can help you!
+- 💬 Ask me about: Architecture, Micro front-ends, Microsservices, agile methodologies, and best practices – I'm sure I can help you!
 
 ## 👩‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
