@@ -1,8 +1,8 @@
 # Computer Engineer | Solutions Architect | Software Developer | Master's Student at Poli-USP
 
-- 💼 Assistant Coordinator for Computer Engineering, Information Systems, and Computer Science at the Mauá Institute of Technology (IMT) and Computer Engineer/Fullstack Developer at Intelicity.
+- 💼 Assistant Coordinator for Computer Engineering, Information Systems, and Computer Science at the Mauá Institute of Technology (IMT) and Computer Engineer/Fullstack Developer.
 - 🛠️ Tech Stack: Flutter, Python, AWS, Clean Architecture, Scrum...
-- 🌱 Currently studying AWS Cloud, React, and NodeJS.
+- 🌱 Currently studying Cloud Providers, Architecture, Patterns and Project Management.
 - 💬 Ask me about: Architecture, Micro front-ends, Microsservices, agile methodologies, and best practices – I'm sure I can help you!
 
 ## 👩‍💻 Languages
