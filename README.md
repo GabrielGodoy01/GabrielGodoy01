@@ -6,6 +6,8 @@ I currently coordinate undergraduate programs in technology at the Mauá Institu
 
 As a fullstack developer and solutions architect, I work on projects involving cloud-first infrastructure, modular backends, and modern frontends, always following clean architecture principles and agile methodologies.
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgbraz/)
+
 ## 💬 Ask me about:
 - Software architecture and clean code practices
 - Microservices, event-driven systems, and API design
@@ -49,8 +51,5 @@ As a fullstack developer and solutions architect, I work on projects involving c
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGodoy01&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgodoy01&layout=compact&theme=dracula)
-
-## Find me on:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgbraz/)
 
 ![Snake animation](https://github.com/GabrielGodoy01/GabrielGodoy01/blob/output/github-contribution-grid-snake.svg)
