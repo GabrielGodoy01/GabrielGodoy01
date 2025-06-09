@@ -12,7 +12,7 @@ As a fullstack developer and solutions architect, I work on projects involving c
 - Software architecture and clean code practices
 - Microservices, event-driven systems, and API design
 - Flutter, WebSockets, CI/CD pipelines and team workflows
-- Multi-tenant platforms and cloud platforms like Railway, Supabase, Vercel
+- Multi-tenant platforms and cloud platforms like AWS, GCP, Railway, Supabase, Vercel
 - GitHub Actions, Azure DevOps and automation best practices
 
 ## 👩‍💻 Languages
